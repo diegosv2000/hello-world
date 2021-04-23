@@ -1,2 +1,2 @@
-- Aprender a programar mejor en HTML y CSS
-- Desarrollar una aplicación web que mediante un algoritmo sirva como método de estudio.
+Aprender a programar mejor en HTML y CSS
+Hacer una aplicación web que permita desarrollar todo lo aprendido en el curso.
