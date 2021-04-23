@@ -1,1 +1,1 @@
-Espero desarrollar mis conocimientos en CSS y HTML usando buenas practicas.
+Desarrollar aplicación web que mediante un algoritmo ayude a estudiar a las personas de temas específicos
