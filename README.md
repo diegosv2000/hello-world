@@ -1,1 +1,1 @@
-Desarrollar aplicación web que mediante un algoritmo ayude a estudiar a las personas de temas específicos
+Una aplicación web que permita desarrollar todo lo aprendido en el curso.
