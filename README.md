@@ -1,1 +1,3 @@
-
+- Aprender a programar mejor en HTML y CSS.
+- Hacer una aplicación web que permita desarrollar todo lo aprendido en el curso.
+- Desarrollar una aplicación web que mediante un algoritmo ayude a repasar lo aprendido.
